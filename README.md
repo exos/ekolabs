@@ -29,6 +29,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [netifera](https://github.com/netifera/netifera) - Open Source Network Security Platform
 * [IDASynergy](https://github.com/CubicaLabs/IDASynergy) - A combination of an IDAPython Plugin and a control version system that result in a new reverse engineering collaborative addon for IDA Pro
 * [kscope](https://github.com/ortegaalfredo/kscope) - HDD Resonance script
+* [genpasswd](http://genpasswd.js.org/) - Generate strong and deterministics passwords using real cryptography
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
